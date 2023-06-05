@@ -2,7 +2,7 @@
 
 Com esse projeto você consegue fazer operação simples com:
 
-- Subtrair
-- Adicionar
-- Multiplicar
-- Dividir
+- Subtrair;
+- Adicionar;
+- Multiplicar;
+- Dividir.
